@@ -3,10 +3,10 @@ package quote
 // v1.0.0
 // Say : say Hello
 func Say2() string {
-	return "Hello"
+	return "Hello2"
 }
 
 // Speak : say Hi, mai
 func Speak2() string {
-	return "Hi, mai"
+	return "Hi, mai2"
 }
